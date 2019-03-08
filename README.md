@@ -1,6 +1,6 @@
 #### News API Algorithm
 
-**I developed this algorithm to filter relevant news articles from the [News API](https://newsapi.org/)**
+**I developed this algorithm to filter relevant news articles (by title) from the [News API](https://newsapi.org/)**
 
 This function will accept input value(s) and:
 
